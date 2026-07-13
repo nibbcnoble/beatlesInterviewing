@@ -1,0 +1,8 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "chunk_count": 1315,
+  "index_type": "IndexFlatIP",
+  "normalized_embeddings": true,
+  "chunks_path": "C:\\Users\\nibbc\\InterviewBooster\\beatlesInterviewer\\text_with_prompting\\artifacts\\chunks.jsonl"
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "filename": "00_front_matter_and_bios.txt",
+    "rule_output": "processed\\cleaned_rulebased\\00_front_matter_and_bios.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\00_front_matter_and_bios.llm_cleaned.txt",
+    "chunk_count": 21
+  },
+  {
+    "filename": "01_1960-62.txt",
+    "rule_output": "processed\\cleaned_rulebased\\01_1960-62.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\01_1960-62.llm_cleaned.txt",
+    "chunk_count": 48
+  },
+  {
+    "filename": "02_1963.txt",
+    "rule_output": "processed\\cleaned_rulebased\\02_1963.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\02_1963.llm_cleaned.txt",
+    "chunk_count": 36
+  },
+  {
+    "filename": "03_1964.txt",
+    "rule_output": "processed\\cleaned_rulebased\\03_1964.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\03_1964.llm_cleaned.txt",
+    "chunk_count": 47
+  },
+  {
+    "filename": "04_1965.txt",
+    "rule_output": "processed\\cleaned_rulebased\\04_1965.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\04_1965.llm_cleaned.txt",
+    "chunk_count": 45
+  },
+  {
+    "filename": "05_1966.txt",
+    "rule_output": "processed\\cleaned_rulebased\\05_1966.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\05_1966.llm_cleaned.txt",
+    "chunk_count": 54
+  },
+  {
+    "filename": "06_1967.txt",
+    "rule_output": "processed\\cleaned_rulebased\\06_1967.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\06_1967.llm_cleaned.txt",
+    "chunk_count": 51
+  },
+  {
+    "filename": "07_1968.txt",
+    "rule_output": "processed\\cleaned_rulebased\\07_1968.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\07_1968.llm_cleaned.txt",
+    "chunk_count": 51
+  },
+  {
+    "filename": "08_1969-70.txt",
+    "rule_output": "processed\\cleaned_rulebased\\08_1969-70.cleaned.txt",
+    "llm_output": "processed\\cleaned_llm\\08_1969-70.llm_cleaned.txt",
+    "chunk_count": 59
+  }
+]
